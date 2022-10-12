@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vamsimudila
+- 👋 Hi, I’m @VamsiMudila
 - 👀 I’m interested in learning new technolgies in the field of Computer Science.
 - 🌱 I’m currently learning about Data Science.
 - 💞️ I’m looking to collaborate on learning new technologies.
